@@ -1,0 +1,3 @@
+sh skrypt-qemu.sh 
+
+======
